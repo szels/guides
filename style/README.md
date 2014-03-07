@@ -30,7 +30,7 @@ Formatting
 * Indent continued lines two spaces.
 * Indent private methods equal to public methods.
 * Place the `.` on the same line as the method name when splitting up long
-  lines. [Example](dot guideline example)
+  lines. [Example][dot guideline example].
 * Use 2 space indentation (no tabs).
 * Use an empty line between methods.
 * Use newlines around multi-line blocks.
