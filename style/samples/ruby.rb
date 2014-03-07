@@ -8,8 +8,8 @@ class SomeClass
   end
 
   def method_with_arguments(argument_one, argument_two)
-    this_is_a_really_long_line_that_should_be_broken_up_over_multiple_lines_and.
-      every_line_but_the_first_is_indented
+    this_is_a_really_long_line_that_should_be_broken_up_over_multiple_lines_and
+      .every_line_but_the_first_is_indented
   end
 
   def method_with_multiline_block

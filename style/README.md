@@ -29,7 +29,8 @@ Formatting
   brace on its own line.
 * Indent continued lines two spaces.
 * Indent private methods equal to public methods.
-* Place the `.` on the same line as the method name when splitting up long lines.
+* Place the `.` on the same line as the method name when splitting up long
+  lines. [Example](dot guideline example)
 * Use 2 space indentation (no tabs).
 * Use an empty line between methods.
 * Use newlines around multi-line blocks.
@@ -38,6 +39,7 @@ Formatting
 * Use [Unix-style line endings] (`\n`).
 * Use [uppercase for SQL key words and lowercase for SQL identifiers].
 
+[dot guideline example]: https://github.com/thoughtbot/guides/blob/master/style/samples/ruby.rb#L12
 [uppercase for SQL key words and lowercase for SQL identifiers]: http://www.postgresql.org/docs/9.2/static/sql-syntax-lexical.html#SQL-SYNTAX-IDENTIFIERS
 [Unix-style line endings]: http://unix.stackexchange.com/questions/23903/should-i-end-my-text-script-files-with-a-newline
 
