@@ -219,6 +219,7 @@ Testing
 * Use RSpec's [`expect` syntax].
 * Use `should` shorthand for [one-liners with an implicit subject].
 * Use `not_to` instead of `to_not` in RSpec expectations.
+* Use `has_css?` instead of `has_selector?` in RSpec.
 
 [`expect` syntax]: http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
 [one-liners with an implicit subject]: https://github.com/rspec/rspec-expectations/blob/master/Should.md#one-liners
